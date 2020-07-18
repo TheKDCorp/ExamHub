@@ -1,0 +1,78 @@
+/**{
+	padding:3px;
+}*/
+
+.titlebar{
+	padding:3px;
+	background-color:#363636;
+}
+
+.groupsbar{
+	padding:10px;
+	background-color:#eeeeee;
+}
+
+.timebar{
+	padding:7px;
+}
+
+.partbar{
+	padding:0px;
+	padding-left:10px;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+
+.questiontypebar{
+	padding:7px;
+}
+
+
+.qarea{
+	border:1px solid grey;
+	min-height:100px;
+}
+
+.questionarea{
+	/*border-bottom:1px solid grey;*/
+	padding:5px;
+}
+
+.answerarea{
+
+	
+}
+
+.functionarea{
+	padding:8px;
+	border:1px solid grey;
+}
+
+.profilebar{
+	padding:7px;
+	border:1px solid grey;
+}
+
+.qlistbar{
+	border:2px solid black;
+}
+.detbar{
+	padding:10px;
+}
+
+.qlist{
+	background-color: #e5f6fd;
+	padding:10px;
+	min-height: 100px;
+}
+.submitarea{
+	background-color: #e5f6fd;
+	padding:8px;
+	border:1px solid grey;
+
+}
+
+footer{
+   position:absolute;
+   bottom:0;
+}
